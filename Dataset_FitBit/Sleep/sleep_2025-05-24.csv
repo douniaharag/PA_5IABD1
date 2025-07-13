@@ -1,0 +1,2 @@
+date,totalMinutesAsleep,totalTimeInBed,sleepEfficiency,startTime,endTime,deepSleep,lightSleep,remSleep,wake
+2025-05-24,486,582,94,2025-05-24T02:06:00.000,2025-05-24T11:48:30.000,56,383,47,96
